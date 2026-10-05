@@ -223,4 +223,4 @@ NI Multisim is available as a **full free version** with **all features included
 Unlock your electronics design potential with NI Multisim! Download now and start creating with the best tools in the industry!
 
 ---
-**Last updated:** 2026-10-04 22:51:14 UTC
+**Last updated:** 2026-10-05 01:42:19 UTC
